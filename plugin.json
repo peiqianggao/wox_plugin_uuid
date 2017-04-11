@@ -1,0 +1,12 @@
+{
+    "ID": "8762be68de95391a94a0c5fd0446e037",
+    "ActionKeyword": "uuid",
+    "Name": "wox_plugin_uuid",
+    "Description": "Plugin to get uuid: type 'uuid' or 'uuid uuid_string'",
+    "Author": "peiqianggao",
+    "Version": "1.0.0",
+    "Language": "python",
+    "Website": "https://github.com/peiqianggao/wox_plugin_uuid",
+    "IcoPath": "Images/uuid.jpg",
+    "ExecuteFileName": "main.py"
+}
